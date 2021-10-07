@@ -28,5 +28,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #ifdef RGB_MATRIX_ENABLE
 #    define RGBLED_NUM 54  // Number of LEDs
+//#    define RGBLED_NUM 42  // Number of LEDs
 #    define DRIVER_LED_TOTAL RGBLED_NUM
 #endif
